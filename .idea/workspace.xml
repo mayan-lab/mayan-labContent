@@ -329,6 +329,7 @@
   <component name="ProjectId" id="1a0tNGb3Bn8FW8R6Ck1rxn7Ko42" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
