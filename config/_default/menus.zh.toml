@@ -1,0 +1,33 @@
+[[main]]
+  identifier = "about"
+  name = "关于"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "archive"
+  name = "归档"
+  url = "archive"
+  weight = 2
+
+[[main]]
+  identifier = "posts"
+  name = "文章"
+  url = "posts"
+  weight = 3
+
+[[main]]
+  identifier = "zone"
+  name = "领域"
+  url = "zone"
+  weight = 4
+
+[[main]]
+  parent = "zone"
+  name = "地球化学"
+  url = "zone/geochemistry"
+
+[[main]]
+  parent = "zone"
+  name = "地质学"
+  url = "zone/geology"
