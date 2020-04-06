@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" dir="{{ $.Param "languagedir" | default "ltr" }}">
+
+<head prefix="og: http://ogp.me/ns#">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="baidu-site-verification" content="uPYYxnPI0V" />
+    <meta name="google-site-verification" content="kcR6pelCwK4OwT5fX96kShzzrHKVkTUDpBcbeMhVl9U" />
+    <title>{{ block "title" . }}{{ .Title }} – {{ .Site.Title }}{{ end }}</title>
+    {{ partial "head/scripts" . }}    
+    {{ partialCached "head/styles" . }}
+    {{ partial "head/meta" . }}
+    {{ partial "head/meta_json_ld" . }}
+    {{ partial "head/services" . }}
+    {{ partial "head/custom-head" . }}
+</head>
+
+<body id="root" class="theme__{{ index .Site.Params.themeOptions 0 }}">
+    <script>
+        var localTheme = localStorage.getItem('theme');
+        if (localTheme) {
+            document.getElementById('root').className = 'theme__' + localTheme;
+        }
+    </script>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?38f13d69ab1b73b0aaa4b7f548c72736";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    <div id="container">
+        {{ partial "body/main-left" . }}
+        <div class="wrapper" data-type="{{ .Type }}" data-kind="{{ .Kind }}">
+            {{ partial "navbar/site-nav" . }}
+            {{ partial "header/site-header" . }}
+            {{ block "main" . }}{{ end }}
+            {{ partial "body/custom-body" . }}
+            {{ partial "footer/site-footer" . }}
+        </div>
+        {{ partial "body/main-right" . }}
+    </div>
+</body>
+
+</html>
