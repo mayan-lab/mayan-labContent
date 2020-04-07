@@ -1,323 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c101517f-ebc7-4ee7-871f-0f2b0c787b5d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/themes/zzo/archetypes/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/archetypes/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/archetypes/archive.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/archetypes/archive.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/archetypes/author.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/archetypes/author.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/archetypes/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/archetypes/contact.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/archetypes/default.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/archetypes/gallery.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/archetypes/gallery.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/archetypes/header.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/archetypes/header.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/archetypes/presentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/archetypes/presentation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/archetypes/resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/archetypes/resume.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/archetypes/rich.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/archetypes/rich.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/archetypes/talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/archetypes/talk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/clipboard.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/clipboard.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/enquire.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/enquire.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/fuse.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/fuse.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/helper/closest.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/helper/closest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/helper/fadeinout.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/helper/fadeinout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/helper/getParents.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/helper/getParents.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/helper/next.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/helper/next.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/helper/prev.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/helper/prev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/helper/prop.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/helper/prop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/imagesloaded.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/imagesloaded.pkgd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/lazysizes.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/lazysizes.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/masonry.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/masonry.pkgd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/swipe.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/swipe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/js/swipehome.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/js/swipehome.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/highlight/monokai.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/highlight/monokai.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/highlight/zenburn.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/highlight/zenburn.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/reveal.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/reveal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/reveal.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/reveal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/beige.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/beige.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/black.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/black.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/blood.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/blood.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/league.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/league.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/moon.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/moon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/night.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/night.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/serif.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/serif.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/simple.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/simple.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/sky.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/sky.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/solarized.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/solarized.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/white.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/lib/reveal/theme/white.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/abstracts/_flexbox.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/abstracts/_flexbox.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/abstracts/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/base/_animation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/base/_animation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/base/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/base/_fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/base/_helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/base/_helpers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/base/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_alert.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_bio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_bio.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_breadcrumb.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_breadcrumb.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_busuanzi.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_busuanzi.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_codetab.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_codetab.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_diagram.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_diagram.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_donation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_donation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_expand.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_expand.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_featuredImage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_featuredImage.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_gtt.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_gtt.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_hr.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_hr.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_ie.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_ie.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_math.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_math.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_modal.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_notice.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_notice.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_related.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_related.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_search.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_search.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_summary.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_summary.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_swiper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_swiper.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_switch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_switch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_tab.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_tab.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_taxo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_taxo.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_toc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_toc.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_tooltip.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_whoami.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/components/_whoami.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/layout/_body.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/layout/_body.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/layout/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/layout/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/layout/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/layout/_navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/layout/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/layout/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_404.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_404.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_archive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_archive.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_contact.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_gallery.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_gallery.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_publication.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_publication.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_resume.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_resume.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_showcase.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_showcase.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_single.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_single.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_talk.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_talk.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_terms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/pages/_terms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_abap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_abap.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_algol.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_algol.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_algolnu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_algolnu.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_api.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_api.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_arduino.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_arduino.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_autumn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_autumn.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_borland.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_borland.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_bw.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_bw.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_colorful.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_colorful.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_dracula.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_dracula.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_duotonelight.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_duotonelight.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_emacs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_emacs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_friendly.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_friendly.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_fruity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_fruity.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_github.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_github.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_igor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_igor.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_lovelace.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_lovelace.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_manni.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_manni.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_monokai.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_monokai.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_monokailight.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_monokailight.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_murphy.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_murphy.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_native.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_native.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_paraisodark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_paraisodark.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_paraisolight.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_paraisolight.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_pastie.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_pastie.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_perldoc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_perldoc.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_pygments.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_pygments.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_rainbowdash.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_rainbowdash.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_rrt.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_rrt.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_solarized.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_solarized.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_solarizeddark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_solarizeddark.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_solarizeddark256.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_solarizeddark256.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_solarizedlight.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_solarizedlight.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_swapoff.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_swapoff.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_syntax.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_syntax.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_tango.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_tango.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_trac.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_trac.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_vim.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_vim.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_vs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_vs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_xcode.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/syntax/_xcode.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_dark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_dark.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_darkcode.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_darkcode.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_hacker.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_hacker.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_hackercode.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_hackercode.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_kimbie.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_kimbie.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_kimbiecode.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_kimbiecode.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_light.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_light.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_lightcode.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_lightcode.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_solarized.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_solarized.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_solarizedcode.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_solarizedcode.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/assets/sass/themes/_theme.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/data/button.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/data/button.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/data/flowchartjs.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/data/flowchartjs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/data/font.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/data/font.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/data/grid.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/data/grid.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/data/lib.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/data/lib.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/data/msc.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/data/msc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/data/reveal.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/data/reveal.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/data/skin.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/data/skin.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/config/_default/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/config/_default/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/config/_default/languages.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/config/_default/languages.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/config/_default/menus.en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/config/_default/menus.en.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/config/_default/params.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/archive/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/archive/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/gallery/cartoon/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/gallery/cartoon/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/gallery/photo/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/gallery/photo/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/emoji-support.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/emoji-support.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/markdown-syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/markdown-syntax.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/math-typesetting.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/math-typesetting.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/rich-content.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/rich-content.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/shortcodes.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/shortcodes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/syntax-highlight.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/syntax-highlight.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-chartjs.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-chartjs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-flowchart.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-flowchart.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-js-sequence-diagrams.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-js-sequence-diagrams.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-katex.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-katex.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-mathjax.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-mathjax.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-mermaid.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-mermaid.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-viz.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-viz.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-wavedrom.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/posts/test-wavedrom.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/presentation/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/presentation/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/presentation/dir/fourth.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/presentation/dir/fourth.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/presentation/first.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/presentation/first.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/presentation/second.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/presentation/second.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/presentation/third.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/presentation/third.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/showcase/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/showcase/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/showcase/hugo/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/showcase/hugo/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/showcase/hugo/hugo-theme-zdoc.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/showcase/hugo/hugo-theme-zdoc.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/showcase/hugo/hugo-theme-zzo.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/en/showcase/hugo/hugo-theme-zzo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/ko/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/ko/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/ko/about/index.ko.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/ko/about/index.ko.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/ko/archive/_index.ko.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/ko/archive/_index.ko.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/ko/gallery/cartoon/index.ko.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/ko/gallery/cartoon/index.ko.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/ko/gallery/photo/index.ko.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/ko/gallery/photo/index.ko.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/exampleSite/content/ko/posts/_index.ko.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/exampleSite/content/ko/posts/_index.ko.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/i18n/en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/i18n/en.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/i18n/eo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/i18n/eo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/i18n/fa.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/i18n/fa.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/i18n/fr.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/i18n/fr.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/i18n/ko.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/i18n/ko.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/i18n/zh.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/i18n/zh.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/_default/baseof.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/_default/baseof.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/_default/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/_default/rss.xml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/_default/rss.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/_default/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/_default/summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/_default/summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/_default/taxonomy.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/_default/taxonomy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/_default/taxonomy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/_default/taxonomy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/_default/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/_default/terms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/about/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/about/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/archive/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/archive/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/contact/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/contact/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/gallery/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/gallery/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/all-taxonomies.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/all-taxonomies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/breadcrumb.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/breadcrumb.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/donation.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/donation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/infos.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/infos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/photoswipe.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/photoswipe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/related.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/related.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/share.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/share.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/whoami.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/body/whoami.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/changyan.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/changyan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/commento.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/commento.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/comments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/disqus.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/disqus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/gitalk.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/gitalk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/gitment.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/gitment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/isso.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/isso.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/livere.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/livere.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/utterances.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/utterances.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/valine.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/comments/valine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/contact/formspree.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/contact/formspree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/footer/go-to-top.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/footer/go-to-top.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/footer/links-feed.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/footer/links-feed.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/footer/links-social.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/footer/links-social.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/footer/select-lang.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/footer/select-lang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/footer/site-counter.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/footer/site-counter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/footer/site-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/footer/site-footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/head/meta.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/head/meta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/head/meta_json_ld.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/head/meta_json_ld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/head/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/head/scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/head/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/head/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/head/styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/head/styles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/header/header-img.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/header/header-img.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/header/header-slide.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/header/header-slide.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/header/header-text.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/header/header-text.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/header/site-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/header/site-header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/navbar/select-theme-mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/navbar/select-theme-mobile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/navbar/select-theme.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/navbar/select-theme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/navbar/site-nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/navbar/site-nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/pagination/pagination-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/pagination/pagination-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/pagination/pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/pagination/pagination.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/publication/pub-links.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/publication/pub-links.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/publication/pub-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/publication/pub-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/publication/pub-overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/publication/pub-overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/publication/pub-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/publication/pub-tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/about-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/about-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/codeblock-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/codeblock-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/gallery-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/gallery-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/home-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/home-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/pt-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/pt-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/pub-list-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/pub-list-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/pub-overview-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/pub-overview-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/pub-single-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/pub-single-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/showcase-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/showcase-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/sidebar-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/sidebar-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/single-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/script/single-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/search/site-search-mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/search/site-search-mobile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/search/site-search.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/search/site-search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/showcase/show-nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/showcase/show-nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/showcase/show-pinned.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/showcase/show-pinned.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/sidebar/sidebar-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/sidebar/sidebar-home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/sidebar/sidebar-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/sidebar/sidebar-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/sidebar/sidebar-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/sidebar/sidebar-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/sidebar/site-bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/sidebar/site-bio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/summary/card.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/summary/card.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/summary/classic.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/summary/classic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/summary/compact.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/summary/compact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/donation/patreon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/donation/patreon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/etc/subscription.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/etc/subscription.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/showcase/github.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/showcase/github.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/facebook.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/facebook.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/github.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/github.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/linkedin.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/linkedin.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/medium.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/medium.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/pinterest.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/pinterest.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/tumblr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/tumblr.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/twitter.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/youtube.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/svgs/social/youtube.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/taxonomy/taxonomy-categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/taxonomy/taxonomy-categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/taxonomy/taxonomy-series.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/taxonomy/taxonomy-series.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/partials/taxonomy/taxonomy-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/partials/taxonomy/taxonomy-tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/presentation/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/presentation/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/publication/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/publication/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/publication/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/publication/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/resume/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/resume/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/alert.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/alert.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/button.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/button.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/code.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/code.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/codes.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/codes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/expand.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/expand.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/featuredImage.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/featuredImage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/img.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/img.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/notice.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/notice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/swiper.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/swiper.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/tab.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/tab.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/shortcodes/tabs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/showcase/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/showcase/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/layouts/talks/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/layouts/talks/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/static/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/static/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/static/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/static/fonts/league-gothic/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/static/fonts/league-gothic/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/zzo/static/fonts/source-sans-pro/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/themes/zzo/static/fonts/source-sans-pro/LICENSE" afterDir="false" />
-    </list>
+    <list default="true" id="c101517f-ebc7-4ee7-871f-0f2b0c787b5d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -329,7 +13,6 @@
   <component name="ProjectId" id="1a0tNGb3Bn8FW8R6Ck1rxn7Ko42" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="compactDirectories" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -378,7 +61,9 @@
       <workItem from="1586149177006" duration="11600000" />
       <workItem from="1586179941891" duration="165000" />
       <workItem from="1586181269500" duration="1184000" />
-      <workItem from="1586188192425" duration="781000" />
+      <workItem from="1586188192425" duration="957000" />
+      <workItem from="1586192771536" duration="224000" />
+      <workItem from="1586259625977" duration="8164000" />
     </task>
     <servers />
   </component>
@@ -403,10 +88,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="104" y="109" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586188215732" />
-    <state x="447" y="11" width="642" height="801" key="find.popup" timestamp="1585994448002">
+    <state x="447" y="11" width="1001" height="801" key="find.popup" timestamp="1586267952099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="447" y="11" width="642" height="801" key="find.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585994448002" />
+    <state x="447" y="11" width="1001" height="801" key="find.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586267952099" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1585929958715">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

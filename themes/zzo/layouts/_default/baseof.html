@@ -23,15 +23,6 @@
             document.getElementById('root').className = 'theme__' + localTheme;
         }
     </script>
-    <script>
-        var _hmt = _hmt || [];
-        (function() {
-            var hm = document.createElement("script");
-            hm.src = "https://hm.baidu.com/hm.js?38f13d69ab1b73b0aaa4b7f548c72736";
-            var s = document.getElementsByTagName("script")[0];
-            s.parentNode.insertBefore(hm, s);
-        })();
-    </script>
     <div id="container">
         {{ partial "body/main-left" . }}
         <div class="wrapper" data-type="{{ .Type }}" data-kind="{{ .Kind }}">

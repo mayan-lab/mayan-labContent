@@ -1,7 +1,7 @@
 logoText = "玛雅实验室"
 logoType = "short" # long, short
 description = "计算机-地质-博客。"
-custom_css = []
+custom_css = ["css/links.css"]
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
@@ -69,15 +69,16 @@ tocLevels = ["h2", "h3", "h4"]
 enableSidebarPostsByOrder = false
 
 # footer
-showPoweredBy = false
+showPoweredBy = true
 showFeedLinks = true
 showSocialLinks = true
 enableLangChange = true
 enableThemeChange = true
 
 # service
-googleTagManager = "" # GTM-XXXXXX
-baiduAnalytics = ""
+googleTagManager = "GTM-526Z4NL" # GTM-XXXXXX
+#baiduAnalytics = "<script>var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?38f13d69ab1b73b0aaa4b7f548c72736";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm, s);})();</script>"
+baiduAnalytics = "38f13d69ab1b73b0aaa4b7f548c72736"
 enableBusuanzi = false
 busuanziSiteUV = true
 busuanziSitePV = true
@@ -118,13 +119,13 @@ commento = false
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 [valine]
-  enable = false
-  appId = '你的appId'
-  appKey = '你的appKey'
-  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+  enable = true
+  appId = 'WClvTH60bwlc9BkLAJTvCQAT-gzGzoHsz'
+  appKey = 'XpsVNHOlik541bl75J5kfDEU'
+  notify = true  # mail notifier , https://github.com/xCss/Valine/wiki
   verify = false # Verification code
   avatar = 'mm' 
-  placeholder = '说点什么吧...'
+  placeholder = '...'
   visitor = false
 
 [changyan]
