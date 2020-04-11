@@ -1,7 +1,7 @@
 logoText = "玛雅实验室"
 logoType = "short" # long, short
 description = "计算机-地质-博客。"
-custom_css = ["css/links.css"]
+custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""

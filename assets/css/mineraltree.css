@@ -1,0 +1,9 @@
+.node
+{
+    cursor: pointer;
+}
+.link{
+    fill: none;
+    stroke: #868181;
+    stroke-width: 2.5;
+}
