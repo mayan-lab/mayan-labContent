@@ -22,6 +22,10 @@ tags:
 
 <div id="herizontalmineraltree"></div>
 
+## 水平视图(en)
+
+<div id="herizontalmineraltreeen"></div>
+
 ## 径向图
 
 <div id="radialmineraltree"></div>

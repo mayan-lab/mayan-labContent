@@ -805,10 +805,12 @@ let margin = {top: 20, right: 90, bottom: 20, left: 50},
     width = 600 - margin.left - margin.right,
     height = 900 - margin.top - margin.bottom;
 
-let svg = d3.select("#herizontalmineraltree").append("svg")
+// append the svg object to the body of the page
+// appends a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
+let svg = d3.select("#herizontalmineraltreeen").append("svg")
     .attr("width", '100%')
     .attr("height", '900px');
-
 
 let svgZoom = d3.zoom()
     .on('zoom', zoomed);
@@ -827,12 +829,12 @@ svg.append('rect')
 let gTree = svg.append("g")
     .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
-let i = 0,
+var i = 0,
     duration = 750,
     root;
 
 // declares a tree layout and assigns the size
-let treemap = d3.tree().size([height, width]);
+var treemap = d3.tree().size([height, width]);
 
 // Assigns parent, children, height, depth
 root = d3.hierarchy(treeData, function(d) { return d.children; });
@@ -864,10 +866,10 @@ function expand(d) {
 function update(source) {
 
     // Assigns the x and y position for the nodes
-    let treeData = treemap(root);
+    var treeData = treemap(root);
 
     // Compute the new tree layout.
-    let nodes = treeData.descendants(),
+    var nodes = treeData.descendants(),
         links = treeData.descendants().slice(1);
 
     // Normalize for fixed-depth.
@@ -876,11 +878,11 @@ function update(source) {
     // ****************** Nodes section ***************************
 
     // Update the nodes...
-    let node = gTree.selectAll('g.node')
+    var node = gTree.selectAll('g.node')
         .data(nodes, function(d) {return d.id || (d.id = ++i); });
 
     // Enter any new modes at the parent's previous position.
-    let nodeEnter = node.enter().append('g')
+    var nodeEnter = node.enter().append('g')
         .attr('class', 'node')
         .attr("transform", function(d) {
             return "translate(" + source.y0 + "," + source.x0 + ")";
@@ -904,10 +906,10 @@ function update(source) {
         .attr("text-anchor", function(d) {
             return d.children || d._children ? "end" : "start";
         })
-        .text(function(d) { return d.data.name_zh; });
+        .text(function(d) { return d.data.name; });
 
     // UPDATE
-    let nodeUpdate = nodeEnter.merge(node);
+    var nodeUpdate = nodeEnter.merge(node);
 
     // Transition to the proper position for the node
     nodeUpdate.transition()
@@ -928,7 +930,7 @@ function update(source) {
 
 
     // Remove any exiting nodes
-    let nodeExit = node.exit().transition()
+    var nodeExit = node.exit().transition()
         .duration(duration)
         .attr("transform", function(d) {
             return "translate(" + source.y + "," + source.x + ")";
@@ -946,19 +948,19 @@ function update(source) {
     // ****************** links section ***************************
 
     // Update the links...
-    let link = gTree.selectAll('path.link')
+    var link = gTree.selectAll('path.link')
         .data(links, function(d) { return d.id; });
 
     // Enter any new links at the parent's previous position.
-    let linkEnter = link.enter().insert('path', "g")
+    var linkEnter = link.enter().insert('path', "g")
         .attr("class", "link")
         .attr('d', function(d){
-            let o = {x: source.x0, y: source.y0}
+            var o = {x: source.x0, y: source.y0}
             return diagonal(o, o)
         });
 
     // UPDATE
-    let linkUpdate = linkEnter.merge(link);
+    var linkUpdate = linkEnter.merge(link);
 
     // Transition back to the parent element position
     linkUpdate.transition()
@@ -966,10 +968,10 @@ function update(source) {
         .attr('d', function(d){ return diagonal(d, d.parent) });
 
     // Remove any exiting links
-    let linkExit = link.exit().transition()
+    var linkExit = link.exit().transition()
         .duration(duration)
         .attr('d', function(d) {
-            let o = {x: source.x, y: source.y}
+            var o = {x: source.x, y: source.y}
             return diagonal(o, o)
         })
         .remove();
@@ -1001,185 +1003,5 @@ function update(source) {
             d._children = null;
         }
         update(d);
-    }
-}
-
-let svgen = d3.select("#herizontalmineraltreeen").append("svg")
-    .attr("width", '100%')
-    .attr("height", '900px');
-
-
-let svgZoomen = d3.zoom()
-    .on('zoom', zoomeden);
-
-function zoomeden (d) {
-    gTreeen.attr('transform', d3.event.transform);
-}
-svgen.call(svgZoomen)
-    .on("wheel", function() { d3.event.preventDefault(); });
-
-svgen.append('rect')
-    .attr('width', '100%')
-    .attr('height', '100%')
-    .attr('fill', '#f3efef');
-
-let gTreeen = svgen.append("g")
-    .attr("transform", `translate(${margin.left}, ${margin.top})`);
-
-
-// // declares a tree layout and assigns the size
-// let treemap = d3.tree().size([height, width]);
-
-// Assigns parent, children, height, depth
-rooten = d3.hierarchy(treeData, function(d) { return d.children; });
-rooten.x0 = height / 2;
-rooten.y0 = 100;
-
-// Collapse after the second level
-rooten.children.forEach(expand);
-
-updateen(rooten);
-
-
-function updateen(source) {
-
-    // Assigns the x and y position for the nodes
-    let treeData = treemap(root);
-
-    // Compute the new tree layout.
-    let nodes = treeData.descendants(),
-        links = treeData.descendants().slice(1);
-
-    // Normalize for fixed-depth.
-    nodes.forEach(function(d){ d.y = d.depth * 180});
-
-    // ****************** Nodes section ***************************
-
-    // Update the nodes...
-    let node = gTreeen.selectAll('g.node')
-        .data(nodes, function(d) {return d.id || (d.id = ++i); });
-
-    // Enter any new modes at the parent's previous position.
-    let nodeEnter = node.enter().append('g')
-        .attr('class', 'node')
-        .attr("transform", function(d) {
-            return "translate(" + source.y0 + "," + source.x0 + ")";
-        })
-        .on('click', clicken);
-
-    // Add Circle for the nodes
-    nodeEnter.append('circle')
-        .attr('class', 'node')
-        .attr('r', 1e-6)
-        .style("fill", function(d) {
-            return d._children ? "lightsteelblue" : "#fff";
-        });
-
-    // Add labels for the nodes
-    nodeEnter.append('text')
-        .attr("dy", ".35em")
-        .attr("x", function(d) {
-            return d.children || d._children ? -13 : 13;
-        })
-        .attr("text-anchor", function(d) {
-            return d.children || d._children ? "end" : "start";
-        })
-        .text(function(d) { return d.data.name; });
-
-    // UPDATE
-    let nodeUpdate = nodeEnter.merge(node);
-
-    // Transition to the proper position for the node
-    nodeUpdate.transition()
-        .duration(duration)
-        .attr("transform", function(d) {
-            return "translate(" + d.y + "," + d.x + ")";
-        });
-
-    // Update the node attributes and style
-    nodeUpdate.select('circle.node')
-        .attr('r', 4)
-        .attr('stroke', '#75f3cb')
-        .attr('stroke-width', 1)
-        .style("fill", function(d) {
-            return d._children ? '#6da396' : "#d4f6a6";
-        })
-        .attr('cursor', 'pointer');
-
-
-    // Remove any exiting nodes
-    let nodeExit = node.exit().transition()
-        .duration(duration)
-        .attr("transform", function(d) {
-            return "translate(" + source.y + "," + source.x + ")";
-        })
-        .remove();
-
-    // On exit reduce the node circles size to 0
-    nodeExit.select('circle')
-        .attr('r', 1e-6);
-
-    // On exit reduce the opacity of text labels
-    nodeExit.select('text')
-        .style('fill-opacity', 1e-6);
-
-    // ****************** links section ***************************
-
-    // Update the links...
-    let link = gTreeen.selectAll('path.link')
-        .data(links, function(d) { return d.id; });
-
-    // Enter any new links at the parent's previous position.
-    let linkEnter = link.enter().insert('path', "g")
-        .attr("class", "link")
-        .attr('d', function(d){
-            let o = {x: source.x0, y: source.y0}
-            return diagonal(o, o)
-        });
-
-    // UPDATE
-    let linkUpdate = linkEnter.merge(link);
-
-    // Transition back to the parent element position
-    linkUpdate.transition()
-        .duration(duration)
-        .attr('d', function(d){ return diagonal(d, d.parent) });
-
-    // Remove any exiting links
-    let linkExit = link.exit().transition()
-        .duration(duration)
-        .attr('d', function(d) {
-            let o = {x: source.x, y: source.y}
-            return diagonal(o, o)
-        })
-        .remove();
-
-    // Store the old positions for transition.
-    nodes.forEach(function(d){
-        d.x0 = d.x;
-        d.y0 = d.y;
-    });
-
-    // Creates a curved (diagonal) path from parent to the child nodes
-    function diagonal(s, d) {
-
-        path = `M ${s.y} ${s.x}
-            C ${(s.y + d.y) / 2} ${s.x},
-              ${(s.y + d.y) / 2} ${d.x},
-              ${d.y} ${d.x}`
-
-        return path
-    }
-
-    // Toggle children on click.
-    function clicken(d) {
-        if (d.children) {
-            d._children = d.children;
-            d.children = null;
-        } else {
-            d.children = d._children;
-            d._children = null;
-        }
-        updateen(d);
     }
 }

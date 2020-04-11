@@ -39,15 +39,15 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\zhaoqiu\WebstormProjects\mayan-lab.github.io\assets" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zhaoqiu\WebstormProjects\mayan-lab.github.io\assets\js" />
       <recent name="C:\Users\zhaoqiu\WebstormProjects\mayan-lab.github.io\static\images\posts" />
       <recent name="C:\Users\zhaoqiu\WebstormProjects\mayan-lab.github.io\content\en\posts" />
       <recent name="C:\Users\zhaoqiu\WebstormProjects\mayan-lab.github.io\content\en\zone\geochemistry" />
       <recent name="C:\Users\zhaoqiu\WebstormProjects\mayan-lab.github.io\content\en\zone" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zhaoqiu\WebstormProjects\mayan-lab.github.io\assets" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -80,7 +80,7 @@
       <workItem from="1586404618610" duration="31406000" />
       <workItem from="1586488312196" duration="36231000" />
       <workItem from="1586573409819" duration="1465000" />
-      <workItem from="1586574940505" duration="30376000" />
+      <workItem from="1586574940505" duration="31654000" />
     </task>
     <servers />
   </component>
