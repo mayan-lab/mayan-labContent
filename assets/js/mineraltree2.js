@@ -1,4 +1,4 @@
-
+"use strict";
 let treeData = {
     "name": "Mineral",
     "name_zh": "矿物",
@@ -828,14 +828,13 @@ let gTree = svg.append("g")
     .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
 let i = 0,
-    duration = 750,
-    root;
+    duration = 350;
 
 // declares a tree layout and assigns the size
 let treemap = d3.tree().size([height, width]);
 
 // Assigns parent, children, height, depth
-root = d3.hierarchy(treeData, function(d) { return d.children; });
+let root = d3.hierarchy(treeData, function(d) { return d.children; });
 root.x0 = height / 2;
 root.y0 = 100;
 
@@ -965,6 +964,17 @@ function update(source) {
         .duration(duration)
         .attr('d', function(d){ return diagonal(d, d.parent) });
 
+    // Creates a curved (diagonal) path from parent to the child nodes
+    function diagonal(s, d) {
+
+        let path = `M ${s.y} ${s.x}
+            C ${(s.y + d.y) / 2} ${s.x},
+              ${(s.y + d.y) / 2} ${d.x},
+              ${d.y} ${d.x}`
+
+        return path
+    }
+
     // Remove any exiting links
     let linkExit = link.exit().transition()
         .duration(duration)
@@ -980,16 +990,7 @@ function update(source) {
         d.y0 = d.y;
     });
 
-    // Creates a curved (diagonal) path from parent to the child nodes
-    function diagonal(s, d) {
 
-        path = `M ${s.y} ${s.x}
-            C ${(s.y + d.y) / 2} ${s.x},
-              ${(s.y + d.y) / 2} ${d.x},
-              ${d.y} ${d.x}`
-
-        return path
-    }
 
     // Toggle children on click.
     function click(d) {
@@ -1004,6 +1005,7 @@ function update(source) {
     }
 }
 
+i = 0;
 let svgen = d3.select("#herizontalmineraltreeen").append("svg")
     .attr("width", '100%')
     .attr("height", '900px');
@@ -1024,14 +1026,14 @@ svgen.append('rect')
     .attr('fill', '#f3efef');
 
 let gTreeen = svgen.append("g")
-    .attr("transform", `translate(${margin.left}, ${margin.top})`);
+    .attr("transform", `translate(${margin.left+20}, ${margin.top})`);
 
 
 // // declares a tree layout and assigns the size
 // let treemap = d3.tree().size([height, width]);
 
 // Assigns parent, children, height, depth
-rooten = d3.hierarchy(treeData, function(d) { return d.children; });
+let rooten = d3.hierarchy(treeData, function(d) { return d.children; });
 rooten.x0 = height / 2;
 rooten.y0 = 100;
 
@@ -1163,7 +1165,7 @@ function updateen(source) {
     // Creates a curved (diagonal) path from parent to the child nodes
     function diagonal(s, d) {
 
-        path = `M ${s.y} ${s.x}
+        let path = `M ${s.y} ${s.x}
             C ${(s.y + d.y) / 2} ${s.x},
               ${(s.y + d.y) / 2} ${d.x},
               ${d.y} ${d.x}`
