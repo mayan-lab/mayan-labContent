@@ -31,6 +31,9 @@ git push -u origin master
 
 # 新机器同步仓库  拷贝其他不需要同步的文件时注意删除.git隐藏文件夹
 git pull origin master
+
+# 添加`.gitattrihutes`解决win 和 mac 换行符不一致的问题
+
 ```
 
 ``` Bash
