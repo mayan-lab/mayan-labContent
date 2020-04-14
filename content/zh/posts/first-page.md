@@ -34,6 +34,7 @@ git pull origin master
 
 # 添加`.gitattrihutes`解决win 和 mac 换行符不一致的问题
 
+# github尽量使用国外邮箱
 ```
 
 ``` Bash
