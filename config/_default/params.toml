@@ -13,7 +13,7 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
-viewportSize = "wider" # widest, wider, wide, normal, narrow
+viewportSize = "wider" # widest, wider, wide, normal, narrow  this option's defult has changed "wider".
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 
@@ -32,11 +32,11 @@ enableGoToTop = true
 enableWhoami = false
 summaryShape = "classic" # card, classic, compact
 searchResultPosition = "main" # side, main
-archiveGroupByDate = "2006-01" # "2006-01": group by month, "2006": group by year
+archiveGroupByDate = "2020-01" # "2006-01": group by month, "2006": group by year
 archivePaginate = 13
 paginateWindow = 1
 talksPaginate = 5
-talksGroupByDate = "2006"
+talksGroupByDate = "2020"
 pubPaginate = 20
 
 # whoami

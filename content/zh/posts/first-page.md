@@ -104,3 +104,7 @@ custom_js = ["js/first_page.js"] # custom_js = ["js/custom.js"] root/assets/js/c
 
 ## Mac Win 协同编辑
 aa
+
+## 改动的内容
+
+viewport size 改成默认1440px
