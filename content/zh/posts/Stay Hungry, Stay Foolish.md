@@ -12,6 +12,34 @@ tags:
 - words list
 ---
 
+## 2020-06-19
+
+### Words
+
+seminal : influential, important, ground-breaking, original
+elusive : difficult to describe, find, achieve, remember
+interstitial
+
+### Sentences
+
+
+## 2020-06-19
+
+### Words
+
+viable
+derive = get
+inference, implication, 
+reactant : a chemical substance that at the start of a chemical reaction.
+discrepancy, variation, difference, 
+unavoidable, 
+
+### Sentences
+
+..., which makes our theoretical approach particularly valuable to fill in the niche in our knowledge gap.
+fluctuates around a plateau value
+
+
 ## 2020-06-13
 
 ### Words
