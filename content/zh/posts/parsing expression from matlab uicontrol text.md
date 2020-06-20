@@ -6,6 +6,7 @@ description: "利用堆栈对MATLAB Gui控件输入的字符串表达式进行�
 hideToc: false
 enableToc: true
 enableTocContent: false
+tocFolding: false
 author: zhaoqiu
 authorEmoji: 👽
 tags: 
