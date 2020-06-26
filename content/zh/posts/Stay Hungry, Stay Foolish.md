@@ -13,6 +13,71 @@ tags:
 - words list
 ---
 
+## 2020-06-26
+
+### Words
+
+
+
+### Sentences
+
+make analysis difficult to impossible.
+counteract : 
+
+## 2020-06-25
+
+### Words
+
+thoroughly, entirely, completely, totally, fully, absolutely, strictly
+
+### Sentences
+
+
+## 2020-06-24
+
+### Words
+
+explicitly, specifically, definitely, particularly
+the blanketing effect of a growing H2O-CO2 atmosphere
+erase, delete, remove, eliminate, 
+putative, supposed, assumed, presumptive
+
+### Sentences
+
+The fundamental difference here is that instead of assuming the entire unstable compositional profile to be built before any solid-like mantle overturn can take place, we model its formation allowing for the possibility that solid-state convection sets in before the solidification front has reached the surface.
+As an alternative to ... , we consider a simple model ...
+
+
+## 2020-06-23
+
+### Words
+
+in parallel with, simultaneously
+irrespective, unrelated, unconcerned
+prone, incline, subject, likely suffer from, do ro experience something.
+convective vigor, activity.
+
+### Sentences
+
+would produce an evolution- ary dichotomy between terrestrial planets.
+it is not exactly clear which planetary type it should be classified as.
+This condition sharply constrains the postimpact Earth orientation and the subsequent lunar orbital history.
+to explain radioactive isotopes systematics of the SNC meteorites in terms of distinct mantle reservoirs that may have been sustained by the stable structure resulting from a global overturn.
+
+## 2020-06-22
+
+### Words
+
+latent, potential, hidden, underlying
+escalate, increase, grow, extend, intensify, heighten
+delineate, represent, picture, figure
+vigorously, energetically, eagerly, forcefullly
+suppress, inhibit, block, restrain
+
+### Sentences
+
+On terrestrial volcanic magma pools solid crusts may persist through support at the edges of the pool, but on a planetary magma ocean gravitational forces it dominate and any solid lid should founder.
+
 ## 2020-06-19
 
 ### Words
@@ -23,6 +88,7 @@ interstitial
 
 ### Sentences
 
+uniform spatial distribution.
 
 ## 2020-06-19
 
@@ -33,7 +99,7 @@ derive = get
 inference, implication, 
 reactant : a chemical substance that at the start of a chemical reaction.
 discrepancy, variation, difference, 
-unavoidable, 
+unavoidable 
 
 ### Sentences
 
